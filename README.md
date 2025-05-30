@@ -1,4 +1,4 @@
-# Responsive Simple Website  🌐
+# Simple Responsive Website  🌐
 
 This is a responsive landing page built with **HTML** and **CSS**. It features a beautiful gradient background, a sticky navigation bar, a modern hero section with text and image, and a clean footer with social icons. The layout is fully responsive for both desktop and mobile devices.
 
